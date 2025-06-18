@@ -9,9 +9,9 @@
         <relativePath/> <!-- lookup parent from repository -->
     </parent>
     <groupId>in.ravir.ai</groupId>
-    <artifactId>semantic-sardine</artifactId>
+    <artifactId>local-speech-to-speech-translator</artifactId>
     <version>0.0.1-SNAPSHOT</version>
-    <name>semantic-sardine</name>
+    <name>local-speech-to-speech-translator</name>
     <description>Language Translator</description>
     <url/>
     <licenses>

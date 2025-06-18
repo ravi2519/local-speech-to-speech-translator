@@ -28,7 +28,7 @@ local-speech-to-speech-translator/
 │   │   │   ├── processor/       # Audio/AI processing (AudioStreamProcessor, etc.)
 │   │   │   ├── assistant/       # AI integration (OllamaTranslationAssistant)
 │   │   │   ├── repository/      # In-memory storage (TranslationInMemory)
-│   │   │   └── SemanticSardineApplication.java
+│   │   │   └── LocalS2STApplication.java
 │   │   └── resources/
 │   │       └── application.yml  # Configuration
 │   └── test/

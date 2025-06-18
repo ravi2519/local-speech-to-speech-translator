@@ -1,6 +1,6 @@
 spring:
   application:
-    name: Semantic Sardine
+    name: Local Speech To Speech Translator
   servlet:
     multipart:
       max-file-size: 10MB
