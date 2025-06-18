@@ -7,8 +7,7 @@ Local Speech To Speech Translator is a language translation and transcription se
 <details>
 <summary>Click to view embedded video (if supported by your viewer):</summary>
 
-<video src="https://github.com/ravi2519/local-speech-to-speech-translator/blob/main/Test_with_english_text.mov" controls="controls" style="max-width: 730px;">
-</video>
+https://github.com/user-attachments/assets/fd6fbcba-344b-4858-8dc8-0f810f60597a
 
 </details>
 
