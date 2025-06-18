@@ -4,8 +4,6 @@ Local Speech To Speech Translator is a language translation and transcription se
 
 ## Demo
 
-https://github.com/ravi2519/local-speech-to-speech-translator/Test_with_english_text.mov
-
 <details>
 <summary>Click to view embedded video (if supported by your viewer):</summary>
 
